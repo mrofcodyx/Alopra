@@ -13,5 +13,5 @@ echo -e "$red${bold}[!] Gron não está instalado. Instalando...$end"
 sleep 3
 sudo apt-get update
 sudo apt-get install gron
-chmod +x Alopra
+chmod +x Alopra.sh
 fi
