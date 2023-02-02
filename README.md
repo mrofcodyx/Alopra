@@ -1,4 +1,4 @@
-<h1 align="center">「🖥️」Bem-vindo à Alopra, a ferramenta para descobrir URLs!</h1>
+<h1 align="center">🔥Bem-vindo à Alopra, a ferramenta para descobrir URLs!</h1>
 <a></a>
 <p align="center"><img height="200" src="https://imgur.com/2iTBK1u.png"></p>
 <h2 align="center">Utilizando o poder da tecnologia AlienVaultOTX, a Alopra pode extrair URLs de maneira rápida.</h2>
